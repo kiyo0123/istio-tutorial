@@ -61,7 +61,7 @@
         <dependency>
             <groupId>io.jaegertracing</groupId>
             <artifactId>jaeger-tracerresolver</artifactId>
-            <version>0.30.0</version>
+            <version>0.35.5</version>
         </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
